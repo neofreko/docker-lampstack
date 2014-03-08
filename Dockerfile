@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:precise
 MAINTAINER John Fink <john.fink@gmail.com>
 RUN apt-get update # Thu Nov  7 22:40:44 EST 2013
 #RUN apt-get -y upgrade
